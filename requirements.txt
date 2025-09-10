@@ -1,0 +1,14 @@
+gradio==5.42.0
+python-dotenv==1.1.1
+openai==1.107.0
+langchain==0.3.27
+langchain-community==0.3.29
+langchain-huggingface==0.3.1
+langchain-chroma==0.2.5
+langchain-text-splitters==0.3.9
+sentence-transformers==5.1.0
+torch>=2.8.0
+chromadb==1.0.20
+pypdf==6.0.0
+transformers==4.55.0
+huggingface-hub==0.34.4
