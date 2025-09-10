@@ -10,4 +10,9 @@ pinned: false
 short_description: You can talk to it about my career
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+## 🚀 Try It Online
+
+Experience the Akash Personal Assistant live on Hugging Face Spaces:
+
+👉 [https://huggingface.co/spaces/venom-07/Akash_Personal_Assistant](https://huggingface.co/spaces/venom-07/Akash_Personal_Assistant)
+
